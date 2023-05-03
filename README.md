@@ -3,10 +3,14 @@
 <hr>
 
 - 🎓 Formado em Sistemas de Informação pelo Instituto Federal Fluminense em 2021
-- 🎓 Pós Graduando em Engenharia de Software pela FAVENI
-- 💻 Techs: JavaScript, React.js, Node.js.
+- 💻 Techs: JavaScript, TypeScript, React.js, ReactNative, Node.js.
 - 🔭 Trabalho como analista de suporte na FDC Sistemas
-- 🌱 Tenho buscado aprendizado em Javascript usando React e Node.Js
+- 🌱 Tenho buscado aprendizado em TypeScript usando React e Node.Js
+
+<div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fanuelcouto99&show_icons=true&theme=radical)/api?username=fanuelcouto99&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus trajano github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanuelcouto99&layout=compact" />
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fanuel-couto-5937751b9" target="blank">
