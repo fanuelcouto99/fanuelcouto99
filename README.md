@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/prisma_orm-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </div>
 
 <p align="center">
@@ -34,6 +35,17 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fanuelcouto" height="20" width="20" />
   </a>
 </p>
+
+<p align="center">
+  Obrigado pela visita ! Volte sempre 🚀
+</p>
+
+<div align="center">
+  <br/>
+  <p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{fanuelcouto99}/count.svg" /></p>
+  <br/>
+  </div>
 
 <!--
 **fanuelcouto99/fanuelcouto99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
