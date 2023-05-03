@@ -29,7 +29,7 @@
 <div style="display: inline_block"><br>
 <p align="center">
   <a href="https://www.linkedin.com/in/fanuel-couto-5937751b9" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fanuel-couto-5937751b9" height="20" width="20" />
+    <img style="color: white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fanuel-couto-5937751b9" height="20" width="20" />
   </a>
   
   <a href="https://www.instagram.com/fanuelcouto" target="_blank">
