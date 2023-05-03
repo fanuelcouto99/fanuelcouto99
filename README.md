@@ -1,4 +1,4 @@
-<h1 align="center">Olá 🤟, sou Fanuel Couto 😁</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=00BFBF&width=435&lines=Hello+%F0%9F%A4%9F%2C+I'm+Fanuel+Couto+%F0%9F%98%81)](https://git.io/typing-svg)
 <h3>Sou analista de sistemas, atuando desde 2014 no mercado. Apaixonado por tecnologia, tenho me dedicado diariamente em adquirir conhecimentos na área de programação. Recentemente comecei a estudar novas tecnologias usando Javascript, como Node.Js e React Js</h3>
 <hr>
 
