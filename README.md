@@ -1,29 +1,40 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Hello+%F0%9F%A4%9F%2C+I'm+Fanuel+Couto+%F0%9F%98%81)](https://git.io/typing-svg)
-<h3>Sou analista de sistemas, atuando desde 2014 no mercado. Apaixonado por tecnologia, tenho me dedicado diariamente em adquirir conhecimentos na área de programação. Recentemente comecei a estudar novas tecnologias usando Javascript, como Node.Js e React Js</h3>
+Olá 👋, Me chamo Fanuel Couto 😄
+<h3>Sou desenvolver web full stack, atuando desde 2023 no mercado. Tenho me dedicado diariamente a adquirir conhecimentos na área de programação e também na área de gestão tendo um foco mais na metodologia ágil Scrum. Mais recentemente comecei a estudar novas tecnologias usando Javascript, como Node.Js e React Js</h3>
 <hr>
 
 - 🎓 Formado em Sistemas de Informação pelo Instituto Federal Fluminense em 2021
-- 💻 Techs: JavaScript, TypeScript, React.js, ReactNative, Node.js.
-- 🔭 Trabalho como analista de suporte na FDC Sistemas
-- 🌱 Tenho buscado aprendizado em TypeScript usando React e Node.Js
+- 💻 Techs: JavaScript, TypeScript, React.js, ReactNative, Node.js, NestJs, Php.
+- 🔭 Trabalho como desenvolvedor na Nandu
+- 🌱 Tenho buscado aprendizado em TypeScript usando React, Node.Js e NestJs
 
-<div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fanuelcouto99&show_icons=true&theme=radical)/api?username=fanuelcouto99&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Fanuel Couto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanuelcouto99&layout=compact" />
-</div>
-
-## 🦹🏽‍♂️ Habilidades
 <div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode shield" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub shield" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML shield" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS shield" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript shield" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React shield" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/prisma_orm-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="Fanuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%; height: auto; max-height: 30px;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      <img align="center" alt="Fanuel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%; height: auto; max-height: 30px;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" alt="Fanuel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%; height: auto; max-height: 30px;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+      <img align="center" alt="Fanuel-NestJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" style="max-width: 100%; height: auto; max-height: 30px;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="Fanuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%; height: auto; max-height: 30px;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="Fanuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%; height: auto; max-height: 30px;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+      <img align="center" alt="Fanuel-TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" style="max-width: 100%; height: auto; max-height: 30px;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+      <img align="center" alt="Fanuel-NestJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" style="max-width: 100%; height: auto; max-height: 30px;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+      <img align="center" alt="Fanuel-NestJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="max-width: 100%; height: auto; max-height: 30px;">
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
@@ -37,17 +48,6 @@
   </a>
 </p>
 </div>
-
-<p align="center">
-  Obrigado pela visita ! Volte sempre 🚀
-</p>
-
-<div align="center">
-  <br/>
-  <p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{fanuelcouto99}/count.svg" /></p>
-  <br/>
-  </div>
 
 <!--
 **fanuelcouto99/fanuelcouto99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
