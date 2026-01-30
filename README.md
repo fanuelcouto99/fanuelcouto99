@@ -1,4 +1,4 @@
-<h1>Olá 👋, Me chamo Fanuel Couto 😄</h1>
+<h1 style="text-align: center">Olá 👋, Me chamo Fanuel Couto 😄</h1>
 <h3>Sou desenvolver web full stack, atuando desde 2023 no mercado. Tenho me dedicado diariamente a adquirir conhecimentos na área de programação e também na área de gestão tendo um foco mais na metodologia ágil Scrum. Mais recentemente comecei a estudar novas tecnologias usando Javascript, como Node.Js e React Js</h3>
 <hr>
 
