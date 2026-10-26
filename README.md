@@ -96,7 +96,7 @@ Aplicação para controle de empréstimos de livros.
 
 ## Contato
 
-<a href="https://www.linkedin.com/in/fanuel-couto-5937751b9"><img src="https://img.shields.io/badge/LinkedIn-Fanuel Couto-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/fanuelcouto-dev"><img src="https://img.shields.io/badge/LinkedIn-Fanuel Couto-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn" /></a>
 <a href="mailto:fanuel.couto99@gmail.com"><img src="https://img.shields.io/badge/E--mail-fanuel.couto99@gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="E-mail" /></a>
 <a href="mailto:fanuelcouto.ti@gmail.com"><img src="https://img.shields.io/badge/E--mail-fanuelcouto.ti@gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="E-mail" /></a>
 
